@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/Tisha289-d2d">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Tisha Patel!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Tisha+Patel!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,9 +42,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
 
 ### ☁️ Cloud & DevOps
-
 ![Cloud Concepts](https://img.shields.io/badge/-Cloud_Concepts-007ACC?style=for-the-badge)
-
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
@@ -57,12 +55,12 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lerisa1112&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tisha289-d2d&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lerisa1112&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerisa1112&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tisha289-d2d&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha289-d2d&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -70,7 +68,7 @@
 ## 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lerisa1112&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha289-d2d&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
 </p>
 
 ---
@@ -78,7 +76,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lerisa1112&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tisha289-d2d&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -86,9 +84,6 @@
 ## 💬 Connect with Me
 
 <p align="center">
-  <a href="mailto:lerisadesai@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/desai-lerisa-b58447259/?originalSubdomain=in"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tishapatel@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tisha-patel"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
----
-
