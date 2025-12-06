@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/lerisa1112">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Lerisa+Desai!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Tisha Patel!" alt="Typing SVG" />
   </a>
 </p>
 
