@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <a href="https://github.com/lerisa1112">
+  <a href="https://github.com/Tisha289-d2d">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Tisha Patel!" alt="Typing SVG" />
   </a>
 </p>
